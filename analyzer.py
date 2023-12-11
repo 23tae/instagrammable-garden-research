@@ -2,6 +2,8 @@ import sys
 import os
 import detect
 
+image_number = 20
+
 
 def analyze_images(profiles, image_root_dir, methods):
     print('Analyzing images...\n')
@@ -10,7 +12,7 @@ def analyze_images(profiles, image_root_dir, methods):
         print('category:', category)
         for name in names:  # per user
             print('user:', name)
-            for i in range(50):  # per image
+            for i in range(image_number):  # per image
                 if os.path.exists(os.path.join(image_root_dir, category, name, str(i) + '.jpg')):
                     for method in methods:
                         sys.stdout = open(os.path.join(
