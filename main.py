@@ -4,7 +4,7 @@ import directory
 import analyzer
 
 image_root_dir = '../instagram-image-downloader/result/'
-methods = ['labels', 'properties', 'object-localization']
+methods = ['labels', 'properties']
 
 
 def main():
