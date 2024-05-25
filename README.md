@@ -9,7 +9,7 @@
 
 ### 레이블 인식
 
-Google Cloud Vision API를 활용하여 수집한 이미지의 레이블을 인식한다. (`.txt` 형식으로 저장한다.)
+[Google Cloud Vision API](https://cloud.google.com/vision)를 활용하여 수집한 이미지의 레이블을 인식한다. (`.txt` 형식으로 저장한다.)
 
 - 방법
 
