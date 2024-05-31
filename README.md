@@ -1,9 +1,9 @@
-# Instagrammable Research
+# Instagrammable Garden Research
 
 ## Overview
 
-인스타그램에서 태그(garden, travel, cafe, food, book)별 이미지를 수집하여 이용행태를 분석한다.  
-인스타그램 이미지에서 인식된 레이블을 막대그래프와 워드클라우드를 통해 시각화한다.
+인스타그램에서 태그(garden, travel, cafe, food, book)별 이미지를 수집하여 사용자의 활동 유형별 이용행태를 분석한다.  
+인스타그램 이미지에서 인식된 레이블을 막대그래프와 워드클라우드를 사용하여 시각화한다.
 
 ## Features
 
